@@ -1,0 +1,23 @@
+body {
+  color: #666;
+  font: 16px/1.5em Arial, sans-serif;
+}
+
+body > * {
+  display: block;
+  width: 600px;
+  margin: 10px auto;
+}
+
+a {
+  color: #00f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ol li {
+  list-style-type: decimal;
+}
